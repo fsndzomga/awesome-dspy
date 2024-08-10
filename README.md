@@ -26,11 +26,13 @@ A collection of awesome things regarding DSPy.
 - [DSPy with LLamaIndex](https://github.com/Pavankunchala/LLM-Learn-PK/tree/main/DSP/DSPy_llamaIndex)
 - [DSPy with Arize-Phoenix])(https://github.com/Arize-ai/phoenix/blob/cf97ddc438fd0e075f87b156a99cc930d4b31ca9/docs/tracing/integrations-tracing/dspy.md)
 - [OpenInference DSPy Instrumentation](https://github.com/Arize-ai/openinference/tree/main/python/instrumentation/openinference-instrumentation-dspy)
+- [Develop a RAG app using DSPy, Weaviate, and FastAPI](https://www.lycee.ai/courses/a5b088fa-8a9f-4240-b57b-2b03463df84d/chapters/bab08b2c-972c-499d-933e-5afb877d1a4b)
 
 
 ### Blogs / Articles
 - [Prompt engineering is a task best left to AI models](https://www.theregister.com/2024/02/22/prompt_engineering_ai_models/)
 - [What makes DSPy a valuable framework for developing complex language model pipelines?](https://medium.com/@sujathamudadla1213/what-makes-dspy-a-valuable-framework-for-developing-complex-language-model-pipelines-edfa5b4bcf9b)
+- [DSPy: Building a Logical Reasoner](https://www.lycee.ai/blog/logical-reasoner-dspy)
 - [DSPy: A new framework to program your foundation models just by prompting](https://www.linkedin.com/pulse/dspy-new-framework-program-your-foundation-models-just-prompting-lli4c/?trk=organization_guest_main-feed-card_feed-article-content)
 - [Intro to DSPy: Goodbye Prompting, Hello Programming](https://medium.com/towards-data-science/intro-to-dspy-goodbye-prompting-hello-programming-4ca1c6ce3eb9)
 - [DSPyGen: Revolutionizing AI](https://www.linkedin.com/pulse/launch-alert-dspygen-20242252-revolutionizing-ai-sean-chatman--g9f1c/?trk=article-ssr-frontend-pulse_more-articles_related-content-card)
